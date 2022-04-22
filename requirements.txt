@@ -27,7 +27,7 @@ pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pyjokes==0.6.0
 PyJWT==1.7.1
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 PySocks==1.7.1
 python-docx==0.8.10
 pytz==2020.1
