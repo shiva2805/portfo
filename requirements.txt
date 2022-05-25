@@ -26,7 +26,7 @@ protobuf==3.11.3
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pyjokes==0.6.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 PyPDF2==1.26.0
 PySocks==1.7.1
 python-docx==0.8.10
